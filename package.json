@@ -1,0 +1,18 @@
+{
+  "name": "procfs",
+  "version": "1.0.0",
+  "description": "molecularjs procfs stats collector",
+  "scripts": {},
+  "keywords": [
+    "microservices",
+    "moleculer"
+  ],
+  "author": "FLYBYME",
+  "dependencies": {
+    "measured": "1.1.0"
+  },
+  "engines": {
+    "node": ">= 12.x.x"
+  },
+  "jest": {}
+}
