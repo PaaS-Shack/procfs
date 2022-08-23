@@ -9,6 +9,7 @@
   ],
   "author": "FLYBYME",
   "dependencies": {
+    "moleculer":"*",
     "measured": "1.1.0"
   },
   "engines": {
