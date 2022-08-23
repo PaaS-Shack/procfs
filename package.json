@@ -9,6 +9,7 @@
   ],
   "author": "FLYBYME",
   "dependencies": {
+    "wildcard-match":"*",
     "moleculer":"*",
     "measured": "1.1.0"
   },
